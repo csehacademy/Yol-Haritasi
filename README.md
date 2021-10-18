@@ -138,7 +138,7 @@ Ayrıca Türkçe içerik istiyorsan da https://priviahub.com var. O da bayağı 
 
 Kendime nasıl VPN kurabilirim?
 
-Bununla ilgili Udemyde bir ders eklemiştim
+Bununla ilgili Udemyde bir ders eklemiştim.
 Gelen giden verilerimi kimse görmesin,
 loglarım kimseye düşmesin istiyorsan buraya alalım.
 https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?referralCode=A2C91BDCEC549705CC1E
@@ -146,7 +146,8 @@ https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?referralCode=A2C
 ----------------------------------------------
 
 Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?
-Öncelikle ilk aklimiza gelen OSCP, bunun dışında CISSP de var ama daha çok temel ve "Bilgi Guvenligi" kapsamlı. 
+
+Öncelikle ilk aklımıza gelen OSCP, bunun dışında CISSP de var ama daha çok temel ve "Bilgi Guvenliği" kapsamlı. 
 Bu iki sertifika da oldukça pahalı ve muhtemelen çalıştığın şirket, ihtiyacına göre sana bu sertifikaları saglayacak. 
 O sebeple kendin bunlara kasma.
 
