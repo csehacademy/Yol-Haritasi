@@ -68,6 +68,9 @@ https://www.youtube.com/watch?v=X4eRbHgRawI
 BWAPP ile buglu bir sitede BugBounty alıştırması yapabilirsiniz:
 http://www.itsecgames.com
 
+Web Security alanındaki en donanımlı lablara sahip çalışma ortamı:
+https://portswigger.net/
+
 ------------------------------------------
 
 X bilimleri vs Y Mühendisliği ya da siber güvenlik mühendislik uzmanlığı profesorlüğü bölümü? Hangisini seçersem "siberci" olurum?
