@@ -1,5 +1,5 @@
 # Yol-Haritası
-# CSEH Academy tarafından siber güvenlikle ilgli sorularınıza cevap olması amacıyla hazırlanmıştır.
+# CSEH Academy tarafından siber güvenlikle ilgili sorularınıza cevap olması amacıyla hazırlanmıştır.
 
 Bilgisayar Özellikleri
 
