@@ -85,7 +85,7 @@ O zaman sevgili dostum, kendine bir açık kaynak kodlu proje bul ve ona Pull Re
 Projeyi geliştir, adını duyur, bunları yapman ileride staj ararken ve iş başvurusunda bulunurken senin için çok fayda sağlayacak. 
 Bunu sakın atlama.
 
-haberler ve güncel mevzulara bakmak için ideal birkaç link
+haberlere ve güncel mevzulara bakmak için ideal birkaç link
 
 https://www.reddit.com/r/Hacking_Tutorials/
 https://www.reddit.com/r/netsec/
