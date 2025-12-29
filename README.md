@@ -1,9 +1,6 @@
 # Yol-Haritası
 # CSEH Academy tarafından siber güvenlikle ilgili sorularınıza cevap olması amacıyla hazırlanmıştır.
 
-🛤️ Yol Haritası – CSEH Academy
-
-Bu doküman, siber güvenlikle ilgili sorularınıza cevap olması amacıyla hazırlanmıştır.
 
 - 💻 Bilgisayar Özellikleri (Minimum Öneri)
 
