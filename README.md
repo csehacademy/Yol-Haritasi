@@ -16,8 +16,9 @@ Mutlaka SSD
 
 240 GB SSD, 1 TB HDD’den daha iyidir
 
-- ❓ “XX yaşındayım, geç kaldım mı?”
+------------------------------
 
+- ❓ “XX yaşındayım, geç kaldım mı?”
 
 Hayır. Teknoloji alanında geç kalmak diye bir şey yok.
 
@@ -31,6 +32,8 @@ araştırmayı bilmek
 
 İlerleyen yaş, motivasyon ve disiplinle avantaj bile olabilir.
 
+------------------------------
+
 - 🎓 Öğrenciyim, ne gibi haklarım var?
 
 Ortaöğretim ve üzerindeyseniz:
@@ -39,6 +42,8 @@ Ortaöğretim ve üzerindeyseniz:
 (domain + hosting dahil)
 
 🔗 https://education.github.com/pack
+
+------------------------------
 
 - 🗺️ Yol haritası nereden bulacağım?
 
@@ -70,6 +75,8 @@ Bugcrowd
 
 Eğitim bölümleri de var – doğrudan para kazanmaya başlayabilirsin.
 
+------------------------------
+
 - 🔐 Hack saldırılarından nasıl korunurum?
 
 güçlü şifre kullan
@@ -88,7 +95,9 @@ password manager kullan
 
 🔗 https://haveibeenpwned.com/
 
-🐧 Linux’u nereden öğreneceğim?
+------------------------------
+
+- 🐧 Linux’u nereden öğreneceğim?
 
 Başlangıç için:
 
@@ -116,6 +125,8 @@ bWAPP → http://www.itsecgames.com
 
 PortSwigger Academy → https://portswigger.net/
 
+------------------------------
+
 - 🎓 Hangi programlama dillerine ağırlık vermeliyim?
 
 Önerilen teknolojiler:
@@ -133,6 +144,8 @@ SQL temelleri
 Kali Linux sanal makine kullanımı
 
 Temel ağ bilgisi (CCNA seviyesi)
+
+------------------------------
 
 - 🐍 Python için kaynak önerileri
 
@@ -161,6 +174,8 @@ Voscreen → https://www.voscreen.com/
 
 Siber güvenlikte teknik İngilizce şart.
 
+------------------------------
+
 - 🌐 Networking öğrenmek istiyorum
 
 Hedef:
@@ -185,11 +200,15 @@ Türkçe:
 
 https://priviahub.com
 
+------------------------------
+
 - 🌍 VPN’i nasıl kurarım?
 
 Kişisel VPN ve gizlilik konuları için Udemy kursu:
 
 🔗 https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?referralCode=A2C91BDCEC549705CC1E
+
+------------------------------
 
 - 🎖️ Hangi sertifikaları almalıyım?
 
@@ -202,6 +221,114 @@ CISSP (daha kurumsal / bilgi güvenliği odaklı)
 Not:
 Bunlar pahalıdır. Çoğu zaman şirket sponsor olur.
 Başlangıç için zorunlu değiller.
+
+------------------------------
+
+- 🤖 Yapay Zekâ ve Siber Güvenlik – Neden Önemli?
+
+Yapay zekâ (AI) günümüzde:
+
+saldırıların otomasyonunda
+
+zafiyet tespitinde
+
+zararlı yazılım analizinde
+
+SOC ve SIEM sistemlerinde
+
+tehdit istihbaratında
+
+aktif şekilde kullanılmaktadır.
+
+Aynı zamanda saldırganlar da AI kullanıyor:
+
+phishing e-mailleri otomatik üretme
+
+parola deneme saldırılarını optimize etme
+
+kötü amaçlı kod oluşturma
+
+deepfake ile sosyal mühendislik
+
+Bu yüzden siber güvenlik + yapay zekâ birleşimi, geleceğin en kritik alanlarından biridir.
+
+------------------------------
+
+- 🧠 Hangi Yapay Zekâ Alanları Siber Güvenlikle Kesişir?
+
+Machine Learning for Security
+
+Adversarial Machine Learning
+
+Malware Classification
+
+Network Anomaly Detection
+
+Fraud Detection
+
+Threat Intelligence Automation
+
+LLM Security & Prompt Injection Analizi
+
+AI Red Teaming
+
+------------------------------
+
+- 🛡️ AI destekli savunma neler yapabilir?
+
+loglardan saldırı tespit etme
+
+anomali tabanlı IDS/IPS sistemleri geliştirme
+
+phishing tespiti
+
+zararlı yazılım ailelerini sınıflandırma
+
+otomatik raporlama ve olay analizi
+
+otomatik yara izi (IOC) çıkarımı
+
+------------------------------
+
+- ⚠️ AI destekli saldırılar
+
+Günümüzde saldırganların AI’yı kullanabildiği alanlar:
+
+otomatik OSINT toplama
+
+sosyal mühendislik mesajları üretme
+
+phishing site ve e-mail üretimi
+
+exploit ve malware varyantları oluşturma
+
+LLM zafiyetlerini kullanma (prompt injection vs.)
+
+Not: Tüm çalışmalar hukuka uygun lab ortamlarında ve eğitim amaçlı yapılmalıdır.
+
+- 🛠️ AI + Siber Güvenlik için hangi teknolojiler öğrenilmeli?
+
+Önerilen teknoloji seti:
+
+Python
+
+Numpy / Pandas
+
+Scikit-Learn
+
+PyTorch veya TensorFlow
+
+Jupyter Notebook
+
+Regex
+
+Wireshark + PCAP analizi
+
+YARA kuralları
+
+ELK Stack (Elastic – Logstash – Kibana)
+
+------------------------------
 
 - ✅ Son Tavsiye
 
